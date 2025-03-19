@@ -1,2 +1,2 @@
-# tope
+# TOPE Token
 Contract Address - 0xcd997Aed31c792A35E6CD0daBCB199062B2f7cF2  TOPE TOKEN
